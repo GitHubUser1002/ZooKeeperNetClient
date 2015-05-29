@@ -1,0 +1,9 @@
+c:\users\brian_000\documents\visual studio 2013\Projects\ZooKeeperClient\ZooKeeperClient\bin\Debug\ZooKeeperClient.pdb
+c:\users\brian_000\documents\visual studio 2013\Projects\ZooKeeperClient\ZooKeeperClient\bin\Debug\log4net.dll
+c:\users\brian_000\documents\visual studio 2013\Projects\ZooKeeperClient\ZooKeeperClient\bin\Debug\ZooKeeperNet.dll
+c:\users\brian_000\documents\visual studio 2013\Projects\ZooKeeperClient\ZooKeeperClient\bin\Debug\log4net.xml
+c:\users\brian_000\documents\visual studio 2013\Projects\ZooKeeperClient\ZooKeeperClient\obj\Debug\ZooKeeperClient.csprojResolveAssemblyReference.cache
+c:\users\brian_000\documents\visual studio 2013\Projects\ZooKeeperClient\ZooKeeperClient\obj\Debug\ZooKeeperClient.pdb
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\ZooKeeperClient\ZooKeeperClient\bin\Debug\ZooKeeperClient.dll.config
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\ZooKeeperClient\ZooKeeperClient\bin\Debug\ZooKeeperClient.dll
+C:\Users\brian_000\Documents\Visual Studio 2013\Projects\ZooKeeperClient\ZooKeeperClient\obj\Debug\ZooKeeperClient.dll
